@@ -1,0 +1,6 @@
+{
+  "name": "Bluecrest Goods",
+  "description": "A simple, clean e-commerce storefront for everyday desk and lifestyle essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
